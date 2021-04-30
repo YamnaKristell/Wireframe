@@ -1,0 +1,109 @@
+*{ margin: 0px;
+    padding: 0px;
+}
+
+.cuadros{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    height: 20px;
+    
+    
+    
+}
+
+li{
+    border: 1px solid #A569BD;;
+    width: 70px;
+    height: 20px;
+    margin: 20px;
+    background-color:#A569BD; 
+    list-style:none
+}
+
+
+header{
+    
+    width: 100%;
+    height: 90px;
+    padding: 0px 50px 0px 50px;
+    padding-top: 25px;
+    box-sizing: border-box;
+    background-color: #E5E8E8;
+}
+
+.caja{
+    border: 1px solid #A569BD;
+    background-color: #A569BD;
+   
+    width: 600px;
+    height: 70px;
+    margin: auto;
+    
+}
+
+.two{
+    border: 1px solid #A569BD;
+    background-color: #A569BD;
+    
+    width: 1000px;
+    height: 70px;
+    margin: auto;
+}
+
+a{
+    border: 1px solid ;
+    display: block;
+    width: 100px;
+    margin: auto;
+    background-color: #4D5656;
+    text-align: center;
+    padding: 20px 15px 15px 40px;
+    border-radius: 15px;
+    margin-top: 50px;
+}
+
+.tres_cajas{
+
+    width: 1100px;
+    
+    margin:auto;
+    
+        
+    display: flex;
+    flex-direction: row-reverse;
+    
+   
+    
+
+}
+
+.tres_cajas div{
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    margin: 90px;
+}
+
+body{
+    background-color: #F2F3F4;
+     
+ 
+}
+
+
+
+
+
+
+
+        
+        
+        
+        
+        
+        
+        
+
+
+
